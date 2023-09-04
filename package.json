@@ -48,7 +48,7 @@
     "express": "^4.16.2",
     "fs-extra": "^5.0.0",
     "get-port": "^3.2.0",
-    "got": "^8.0.3",
+    "got": "^11.8.5",
     "http-proxy": "^1.16.2",
     "lodash": "^4.17.4",
     "micromatch": "^3.1.6",
