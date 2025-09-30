@@ -48,10 +48,10 @@
     "express": "^4.16.2",
     "fs-extra": "^5.0.0",
     "get-port": "^3.2.0",
-    "got": "^8.0.3",
+    "got": "^11.8.5",
     "http-proxy": "^1.16.2",
     "lodash": "^4.17.4",
-    "micromatch": "^3.1.6",
+    "micromatch": "^4.0.8",
     "minimist": "^1.2.0",
     "opn": "^5.2.0",
     "selfsigned": "^1.10.1",
@@ -71,7 +71,7 @@
     "eslint": "^4",
     "eslint-config-airbnb-base": "^12",
     "eslint-plugin-import": "^2",
-    "puppeteer": "^1.0.0"
+    "puppeteer": "^24.10.2"
   },
   "engines": {
     "node": ">=6"
